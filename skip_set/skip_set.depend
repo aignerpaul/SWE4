@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1458905309 source:/mnt/hgfs/C/Users/Paul Aigner/Desktop/FH Unterlagen/4. Semester/SWE/Übung/Uebung_2/skip_set/main.cpp
+	<iostream>
+	<set>
+	"skip_set.h"
+
+1458997693 /mnt/hgfs/C/Users/Paul Aigner/Desktop/FH Unterlagen/4. Semester/SWE/Übung/Uebung_2/skip_set/skip_set.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1458820542 source:/mnt/hgfs/C/Users/Paul Aigner/Desktop/FH Unterlagen/4. Semester/SWE/Übung/Uebung_2/skip_set/skip_set.cpp
+	"skip_set.h"
+
